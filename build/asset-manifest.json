@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f44e609.css",
+    "main.js": "/static/js/main.ad0522a5.js",
+    "static/js/787.ff607cd6.chunk.js": "/static/js/787.ff607cd6.chunk.js",
+    "static/media/main_bg.png": "/static/media/main_bg.4bd5e970c25c3d008523.png",
+    "static/media/detail_icon1.svg": "/static/media/detail_icon1.0392a23d8be58f9ac031da813a28ceb8.svg",
+    "static/media/pan_icon.svg": "/static/media/pan_icon.8688c599f355102508820057766e705c.svg",
+    "static/media/main_left_image.png": "/static/media/main_left_image.badd9975cf1347d42c56.png",
+    "static/media/Commodus-GreekAlt.ttf": "/static/media/Commodus-GreekAlt.4c0918424deff38cc30f.ttf",
+    "static/media/Commodus-Greek.ttf": "/static/media/Commodus-Greek.6e62d12af6a5644134c2.ttf",
+    "static/media/Commodus-Regular.ttf": "/static/media/Commodus-Regular.011a6724a3296743a97b.ttf",
+    "static/media/eth_icon.svg": "/static/media/eth_icon.b8c35058f4c2708ea62115353f076e45.svg",
+    "static/media/detail_icon2.svg": "/static/media/detail_icon2.246fea72d1b2dbe1d73de7bbb8cc2d37.svg",
+    "static/media/discord.png": "/static/media/discord.58e6bcd62c1896b7734c.png",
+    "static/media/twitter.png": "/static/media/twitter.05222bac98cdb5bbff34.png",
+    "static/media/medium.png": "/static/media/medium.46445efea4fc2760c51e.png",
+    "index.html": "/index.html",
+    "main.8f44e609.css.map": "/static/css/main.8f44e609.css.map",
+    "main.ad0522a5.js.map": "/static/js/main.ad0522a5.js.map",
+    "787.ff607cd6.chunk.js.map": "/static/js/787.ff607cd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f44e609.css",
+    "static/js/main.ad0522a5.js"
+  ]
+}
